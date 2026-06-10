@@ -19,7 +19,7 @@
 
 ---
 
-<div align="center">
+<div align="">
 
 ```js
 // SYSTEM IDENTITY
@@ -134,10 +134,8 @@ peak hours     : 23:00 — 03:00 WIB
 
 <br/>
 
-```
 — hayaxxdev-bit
   pushing to main from bed.
   no force push. probably.
-```
 
 </div>
