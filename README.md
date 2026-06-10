@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIME HEADER GIF -->
-<img src="https://tenor.com/en-GB/view/bofuri-maple-itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-screaming-scared-gif-16209132](https://tenor.com/en-GB/view/bofuri-maple-itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-screaming-scared-gif-16209132" width="200px" alt="Umaru-chan vibes"/>
+<img src="[https://tenor.com/en-GB/view/bofuri-maple-itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-screaming-scared-gif-16209132](https://tenor.com/en-GB/view/bofuri-maple-itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-screaming-scared-gif-16209132](https://media1.tenor.com/m/ARBCyo_wjx0AAAAC/bofuri-maple.gif)" width="200px" alt="Umaru-chan vibes"/>
 
 # Ohayou! I'm hayaxxdev-bit
 
