@@ -1,52 +1,61 @@
 <div align="center">
 
-<!-- ANIME HEADER GIF -->
-<img src="https://media1.tenor.com/m/ARBCyo_wjx0AAAAC/bofuri-maple.gif" width="200px" alt="My vibes"/>
+<img src="https://media1.tenor.com/m/ARBCyo_wjx0AAAAC/bofuri-maple.gif" width="220px" alt="My vibes"/>
 
-# Ohayou! I'm hayaxxdev-bit
+<br/>
+██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ██╗  ██╗██╗  ██╗
+██║  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗╚██╗██╔╝╚██╗██╔╝
+███████║███████║ ╚████╔╝ ███████║ ╚███╔╝  ╚███╔╝
+██╔══██║██╔══██║  ╚██╔╝  ██╔══██║ ██╔██╗  ██╔██╗
+██║  ██║██║  ██║   ██║   ██║  ██║██╔╝ ██╗██╔╝ ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Lazy+Programmer+%7C+Anime+Enjoyer;Why+do+it+in+5+mins+when+you+can;automate+it+in+5+hours%3F;Currently+watching%3A+too+many+anime" alt="Typing SVG" />
-
-</div>
-
----
-
-## System Status: Online
-
-```txt
-> hayaxxdev-bit.exe is running...
-
-- Developer yang lebih memilih debug 5 jam daripada kerja manual 5 menit.
-- Prinsip utama: kalau bisa diotomasi, otomatisasi sekarang juga.
-- Side quest: maraton anime di sela-sela waktu kompilasi kode.
-- Bahan bakar: kopi hitam dan playlist lo-fi anime.
-- Waktu paling produktif: tengah malam, saat dunia sedang tidur.
-
-> "Work smarter, not harder. Kalau kodenya error, tinggalin dulu dan tonton anime."
-```
-
----
-
-<div align="center">
-
-## 🧰 Tech Stack & Senjata Andalan
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,github,vscode,linux,docker&theme=dark&perline=5" alt="Tech Stack Icons"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A9FEF7&center=true&vCenter=true&width=650&lines=lazy+by+nature.+automated+by+choice.;5+hours+to+automate+a+5+minute+task.+worth+it.;currently+compiling...+brb+watching+anime.;pushing+to+main+from+bed+since+forever." alt="Typing SVG" />
 
 </div>
 
 ---
 
 <div align="center">
+// SYSTEM IDENTITY
+const dev = {
+alias     : "hayaxxdev-bit",
+class     : "Lazy Engineer / Anime Veteran",
+status    : "online — probably watching something",
+principle : "if it can be automated, it will be automated",
+fuel      : ["black coffee", "lo-fi anime playlist", "midnight silence"],
+weakness  : "manual tasks that take less than 5 minutes"
+}
+// CURRENT RUNTIME
 
-## 📊 GitHub Stats
+spent 5 hours scripting what could've taken 5 minutes.
+no regrets. the script is reusable. the 5 minutes are not.
 
-<img src="https://github-readme-stats.vercel.app/api?username=hayaxxdev-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayaxxdev-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="41%" alt="Top Languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**// TECH STACK**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,github,vscode,linux,docker&theme=dark&perline=5" alt="Tech Stack"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**// STATS — live from the grid**
+
+<img src="https://github-readme-stats.vercel.app/api?username=hayaxxdev-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=A9FEF7&icon_color=A9FEF7" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayaxxdev-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A9FEF7" width="41%" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hayaxxdev-bit&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hayaxxdev-bit&theme=tokyonight&hide_border=true&ring=A9FEF7&fire=FF6E96&currStreakLabel=A9FEF7" width="60%" alt="Streak Stats"/>
 
 </div>
 
@@ -54,16 +63,16 @@
 
 <div align="center">
 
-## 🌟 Proyek Andalan (yang bikin bangga pas presentasi)
+**// PINNED — projects i'm not ashamed to show**
 
 <a href="https://github.com/hayaxxdev-bit/NAMA_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=NAMA_REPO_1&theme=tokyonight&hide_border=true" alt="Repo 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=NAMA_REPO_1&theme=tokyonight&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7" alt="Repo 1"/>
 </a>
 <a href="https://github.com/hayaxxdev-bit/NAMA_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=NAMA_REPO_2&theme=tokyonight&hide_border=true" alt="Repo 2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=NAMA_REPO_2&theme=tokyonight&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7" alt="Repo 2"/>
 </a>
 <a href="https://github.com/hayaxxdev-bit/NAMA_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=NAMA_REPO_3&theme=tokyonight&hide_border=true" alt="Repo 3"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=NAMA_REPO_3&theme=tokyonight&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7" alt="Repo 3"/>
 </a>
 
 </div>
@@ -72,9 +81,15 @@
 
 <div align="center">
 
-## 🎌 Anime Corner
+**// ANIME LOG**
+a programmer who never watched anime
+is like code with no comments —
+it runs, but the soul is missing.
 
-> *"Seorang programmer yang belum pernah nonton anime, bagaikan kode tanpa komentar — bisa jalan, tapi jiwa kosong."* 🍜
+current watch  : classified
+all-time favs  : the list is too long
+dropped list   : also long, no shame
+peak hours     : 23:00 — 03:00 WIB
 
 </div>
 
@@ -82,18 +97,19 @@
 
 <div align="center">
 
-## 📡 Hubungi Aku (kalau penting banget)
+**// CONTACT — if it's actually important**
 
-[![GitHub](https://img.shields.io/badge/GitHub-hayaxxdev--bit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hayaxxdev-bit)
+[![GitHub](https://img.shields.io/badge/─_hayaxxdev--bit_─-0d1117?style=for-the-badge&logo=github&logoColor=A9FEF7&labelColor=0d1117)](https://github.com/hayaxxdev-bit)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hayaxxdev-bit&style=for-the-badge&color=blueviolet&label=Pengunjung+Profil" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=hayaxxdev-bit&style=for-the-badge&color=A9FEF7&label=VISITORS&labelColor=0d1117" alt="Profile Views"/>
 
 <br/><br/>
 
-<img src="https://media.tenor.com/AInOij3BSJIAAAAC/anime-sleep.gif" width="150px" alt="Sleeping anime"/>
-
-*— hayaxxdev-bit, sedang rebahan sambil push ke main —*
+<img src="https://media.tenor.com/AInOij3BSJIAAAAC/anime-sleep.gif" width="140px" alt="zzz"/>
+— hayaxxdev-bit
+pushing to main from bed.
+no force push. probably.
 
 </div>
