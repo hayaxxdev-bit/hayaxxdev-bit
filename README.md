@@ -13,4 +13,6 @@
 
 ## 🛋️ Tentang Aku
 
+None awoakwoakowkaokwo
+
 ```txt
