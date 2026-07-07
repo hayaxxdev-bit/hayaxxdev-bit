@@ -75,8 +75,7 @@ const dev = {
 <img src="https://github-readme-stats.vercel.app/api?username=hayaxxdev-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=A9FEF7&icon_color=A9FEF7" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayaxxdev-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A9FEF7" width="41.5%" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hayaxxdev-bit&theme=tokyonight&hide_border=true&ring=A9FEF7&fire=FF6E96&currStreakLabel=A9FEF7" width="60%" alt="GitHub Streak"/>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=hayaxxdev-bit&theme=tokyonight&hide_border=true&locale=id&short_numbers=true)](https://git.io/streak-stats)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayaxxdev-bit&theme=tokyo-night&hide_border=true&area=true&color=A9FEF7&line=A9FEF7&point=FF6E96" width="90%" alt="Activity Graph"/>
 
 </div>
