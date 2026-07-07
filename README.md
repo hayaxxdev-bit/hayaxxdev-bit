@@ -79,19 +79,27 @@ const dev = {
 
 <br/>
 
+## `// ACCOUNT — auto-synced, no manual editing needed`
+
+<div align="center">
+
+<!-- META-START -->
+| | |
+|---|---|
+| **Account created** | _run the workflow once to populate this_ |
+| **Public repos** | _run the workflow once to populate this_ |
+<!-- META-END -->
+
+</div>
+
 ## `// REPOSITORIES — auto-synced, no manual editing needed`
 
 <!-- REPOS-START -->
 <!-- This section is updated automatically every day by the GitHub Action
      in .github/workflows/update-readme.yml — don't edit it by hand. -->
-| Repo | ⭐ Stars | 🍴 Forks | Language | Last Push |
-|---|---|---|---|---|
-| [hayaxxdev-bit](https://github.com/hayaxxdev-bit/hayaxxdev-bit) | 0 | 0 | Python | 2026-07-07 |
-| [Nexovra](https://github.com/hayaxxdev-bit/Nexovra) | 0 | 0 | JavaScript | 2026-07-07 |
-| [WorkNote](https://github.com/hayaxxdev-bit/WorkNote) | 0 | 0 | — | 2026-07-07 |
-| [FinanceNotepad](https://github.com/hayaxxdev-bit/FinanceNotepad) | 0 | 0 | HTML | 2026-06-29 |
-| [hayaxxdev-bit.github.io](https://github.com/hayaxxdev-bit/hayaxxdev-bit.github.io) | 0 | 0 | CSS | 2026-06-24 |
-| [StoImpo](https://github.com/hayaxxdev-bit/StoImpo) | 0 | 0 | JavaScript | 2026-06-24 |
+| Repo | ⭐ Stars | 🍴 Forks | Language | Created | Last Push |
+|---|---|---|---|---|---|
+| _run the workflow once to populate this table_ | | | | | |
 <!-- REPOS-END -->
 
 <sub>Updated automatically every day at 00:00 UTC — see setup instructions below.</sub>

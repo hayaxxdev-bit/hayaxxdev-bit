@@ -25,6 +25,8 @@ MAX_REPOS = 10  # how many repos to show in the table
 
 START_MARKER = "<!-- REPOS-START -->"
 END_MARKER = "<!-- REPOS-END -->"
+META_START_MARKER = "<!-- META-START -->"
+META_END_MARKER = "<!-- META-END -->"
 
 
 def fetch_repos():
@@ -56,47 +58,76 @@ def fetch_repos():
 
 def build_table(repos):
     if not repos:
-        return "| _no public repositories found_ | | | | |"
+        return "| _no public repositories found_ | | | | | |"
 
-    lines = ["| Repo | ⭐ Stars | 🍴 Forks | Language | Last Push |", "|---|---|---|---|---|"]
+    lines = [
+        "| Repo | ⭐ Stars | 🍴 Forks | Language | Created | Last Push |",
+        "|---|---|---|---|---|---|",
+    ]
     for r in repos:
         name = r["name"]
         url = r["html_url"]
         stars = r.get("stargazers_count", 0)
         forks = r.get("forks_count", 0)
         lang = r.get("language") or "—"
+        created = (r.get("created_at") or "")[:10]
         pushed = (r.get("pushed_at") or "")[:10]
-        lines.append(f"| [{name}]({url}) | {stars} | {forks} | {lang} | {pushed} |")
+        lines.append(f"| [{name}]({url}) | {stars} | {forks} | {lang} | {created} | {pushed} |")
     return "\n".join(lines)
 
 
-def update_readme(table_md):
+def fetch_user_meta():
+    """Fetch the account's own creation date and most recent public push."""
+    headers = {"Accept": "application/vnd.github+json"}
+    if TOKEN:
+        headers["Authorization"] = f"Bearer {TOKEN}"
+
+    resp = requests.get(f"https://api.github.com/users/{USERNAME}", headers=headers, timeout=30)
+    resp.raise_for_status()
+    data = resp.json()
+    return {
+        "created_at": (data.get("created_at") or "")[:10],
+        "public_repos": data.get("public_repos", 0),
+    }
+
+
+def _replace_between(content, start_marker, end_marker, new_body):
+    if start_marker not in content or end_marker not in content:
+        print(f"Markers {start_marker}/{end_marker} not found in {README_PATH}", file=sys.stderr)
+        sys.exit(1)
+    before, rest = content.split(start_marker, 1)
+    _, after = rest.split(end_marker, 1)
+    return f"{before}{start_marker}\n{new_body}\n{end_marker}{after}"
+
+
+def update_readme(table_md, meta):
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
-    if START_MARKER not in content or END_MARKER not in content:
-        print(f"Markers {START_MARKER}/{END_MARKER} not found in {README_PATH}", file=sys.stderr)
-        sys.exit(1)
-
-    before, rest = content.split(START_MARKER, 1)
-    _, after = rest.split(END_MARKER, 1)
-
-    comment = (
+    repos_comment = (
         "<!-- This section is updated automatically every day by the GitHub Action\n"
         "     in .github/workflows/update-readme.yml — don't edit it by hand. -->\n"
     )
+    content = _replace_between(content, START_MARKER, END_MARKER, f"{repos_comment}{table_md}")
 
-    new_content = f"{before}{START_MARKER}\n{comment}{table_md}\n{END_MARKER}{after}"
+    meta_body = (
+        "| | |\n"
+        "|---|---|\n"
+        f"| **Account created** | {meta['created_at']} |\n"
+        f"| **Public repos** | {meta['public_repos']} |\n"
+    )
+    content = _replace_between(content, META_START_MARKER, META_END_MARKER, meta_body)
 
     with open(README_PATH, "w", encoding="utf-8") as f:
-        f.write(new_content)
+        f.write(content)
 
 
 def main():
     repos = fetch_repos()
     table_md = build_table(repos)
-    update_readme(table_md)
-    print(f"Updated README.md with {len(repos)} repositories.")
+    meta = fetch_user_meta()
+    update_readme(table_md, meta)
+    print(f"Updated README.md with {len(repos)} repositories. Account created {meta['created_at']}.")
 
 
 if __name__ == "__main__":
