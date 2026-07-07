@@ -86,7 +86,12 @@ const dev = {
      in .github/workflows/update-readme.yml — don't edit it by hand. -->
 | Repo | ⭐ Stars | 🍴 Forks | Language | Last Push |
 |---|---|---|---|---|
-| _run the workflow once to populate this table_ | | | | |
+| [hayaxxdev-bit](https://github.com/hayaxxdev-bit/hayaxxdev-bit) | 0 | 0 | Python | 2026-07-07 |
+| [Nexovra](https://github.com/hayaxxdev-bit/Nexovra) | 0 | 0 | JavaScript | 2026-07-07 |
+| [WorkNote](https://github.com/hayaxxdev-bit/WorkNote) | 0 | 0 | — | 2026-07-07 |
+| [FinanceNotepad](https://github.com/hayaxxdev-bit/FinanceNotepad) | 0 | 0 | HTML | 2026-06-29 |
+| [hayaxxdev-bit.github.io](https://github.com/hayaxxdev-bit/hayaxxdev-bit.github.io) | 0 | 0 | CSS | 2026-06-24 |
+| [StoImpo](https://github.com/hayaxxdev-bit/StoImpo) | 0 | 0 | JavaScript | 2026-06-24 |
 <!-- REPOS-END -->
 
 <sub>Updated automatically every day at 00:00 UTC — see setup instructions below.</sub>
