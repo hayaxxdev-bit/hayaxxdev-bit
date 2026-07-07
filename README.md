@@ -29,9 +29,9 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/hayaxxdev-bit?style=for-the-badge&color=A9FEF7&labelColor=0d1117&logo=github&logoColor=A9FEF7)](https://github.com/hayaxxdev-bit?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=hayaxxdev-bit&style=for-the-badge&color=A9FEF7&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/hayaxxdev-bit)
-[![GitHub Stars](https://img.shields.io/github/stars/hayaxxdev-bit?style=for-the-badge&color=A9FEF7&labelColor=0d1117&logo=github&logoColor=A9FEF7)](https://github.com/hayaxxdev-bit)
+[![GitHub followers](https://img.shields.io/github/followers/hayaxxdev-bit?style=for-the-badge&color=A9FEF7&labelColor=0d1117)](https://github.com/hayaxxdev-bit?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=hayaxxdev-bit&style=for-the-badge&color=A9FEF7&label=VIEWS&labelColor=0d1117)](https://github.com/hayaxxdev-bit)
+[![GitHub Stars](https://img.shields.io/github/stars/hayaxxdev-bit?style=for-the-badge&color=A9FEF7&labelColor=0d1117)](https://github.com/hayaxxdev-bit)
 
 </div>
 
@@ -45,7 +45,7 @@
 const dev = {
   alias     : "hayaxxdev-bit",
   class     : "Lazy Engineer / Anime Veteran",
-  status    : "online // probably watching something",
+  status    : "online — probably watching something",
   principle : "if it can be automated, it will be automated",
   fuel      : ["black coffee", "lo-fi anime playlist", "midnight silence"],
   weakness  : "manual tasks that take less than 5 minutes",
@@ -100,8 +100,9 @@ const dev = {
 <!-- META-START -->
 | | |
 |---|---|
-| **Account created** | 2026-06-10 |
-| **Public repos** | 6 |
+| **Account created** | _run the workflow once to populate this_ |
+| **Public repos** | _run the workflow once to populate this_ |
+<!-- META-END -->
 
 <!-- META-END -->
 
@@ -116,12 +117,7 @@ const dev = {
      in .github/workflows/update-readme.yml — don't edit it by hand. -->
 | Repo | ⭐ Stars | 🍴 Forks | Language | Created | Last Push |
 |---|---|---|---|---|---|
-| [hayaxxdev-bit](https://github.com/hayaxxdev-bit/hayaxxdev-bit) | 0 | 0 | Python | 2026-06-18 | 2026-07-07 |
-| [Nexovra](https://github.com/hayaxxdev-bit/Nexovra) | 0 | 0 | JavaScript | 2026-06-29 | 2026-07-07 |
-| [WorkNote](https://github.com/hayaxxdev-bit/WorkNote) | 0 | 0 | — | 2026-07-07 | 2026-07-07 |
-| [FinanceNotepad](https://github.com/hayaxxdev-bit/FinanceNotepad) | 0 | 0 | HTML | 2026-06-16 | 2026-06-29 |
-| [hayaxxdev-bit.github.io](https://github.com/hayaxxdev-bit/hayaxxdev-bit.github.io) | 0 | 0 | CSS | 2026-06-10 | 2026-06-24 |
-| [StoImpo](https://github.com/hayaxxdev-bit/StoImpo) | 0 | 0 | JavaScript | 2026-06-24 | 2026-06-24 |
+| _run the workflow once to populate this table_ | | | | | |
 <!-- REPOS-END -->
 
 <sub>Updated automatically every day at 00:00 UTC — see setup instructions below.</sub>
