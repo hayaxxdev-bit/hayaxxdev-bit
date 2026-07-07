@@ -4,24 +4,18 @@
 
 <br/>
 
-<!--
-  NOTE: a live JS countdown can't run in a GitHub README — GitHub strips
-  <script> tags from rendered markdown for security. This static block
-  keeps the "manga terminal" look without pretending to update live.
--->
 <table>
   <tr>
     <td align="center">
 
-```
 ┌──────────────────────────────────────────┐
-│         NEXT DEPLOYMENT COUNTDOWN         │
+│          NEXT DEPLOYMENT COUNTDOWN         │
 │                                            │
-│         >>  AWAITING MIDNIGHT  <<         │
+│          >>  AWAITING MIDNIGHT  <<         │
 │                                            │
-│   STATUS: WATCHING ANIME, NOT DEPLOYING   │
+│   STATUS: WATCHING ANIME, NOT DEPLOYING    │
 └──────────────────────────────────────────┘
-```
+
 
 </td>
   </tr>
@@ -41,7 +35,9 @@
 
 ## `// SYSTEM IDENTITY`
 
-```js
+```
+```
+js
 const dev = {
   alias     : "hayaxxdev-bit",
   class     : "Lazy Engineer / Anime Veteran",
@@ -51,137 +47,57 @@ const dev = {
   weakness  : "manual tasks that take less than 5 minutes",
   currently : "shipping code no one asked for, at 2AM"
 }
-```
 
-> spent 5 hours scripting what could've taken 5 minutes.
-> no regrets. the script is reusable. the 5 minutes are not.
+    spent 5 hours scripting what could've taken 5 minutes.
+    no regrets. the script is reusable. the 5 minutes are not.
 
-<br/>
+// TECH STACK
+// STATS — LIVE FROM THE GRID
+// TROPHIES
+// ACCOUNT — auto-synced, no manual editing needed
+	
+Account created	2026-06-10
+Public repos	6
+// REPOSITORIES — auto-synced, no manual editing needed
+Repo	⭐ Stars	🍴 Forks	Language	Created	Last Push
+hayaxxdev-bit	0	0	Python	2026-06-18	2026-07-07
+Nexovra	0	0	JavaScript	2026-06-29	2026-07-07
+WorkNote	0	0	—	2026-07-07	2026-07-07
+FinanceNotepad	0	0	HTML	2026-06-16	2026-06-29
+hayaxxdev-bit.github.io	0	0	CSS	2026-06-10	2026-06-24
+StoImpo	0	0	JavaScript	2026-06-24	2026-06-24
+Updated automatically every day at 00:00 UTC — see setup instructions below.					
+// ANIME COUNTDOWN
+	
+Title	run the workflow once to populate this
+Time remaining	run the workflow once to populate this
 
-## `// TECH STACK`
+Updated automatically every 30 minutes — edit anime_config.json to change what it's counting down to.
+// ANIME LOG
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,nextjs,tailwind,git,github,vscode,linux,docker,mongodb,postgres&theme=dark&perline=8" alt="Tech Stack"/>
-
-</div>
-
-<br/>
-
-## `// STATS — LIVE FROM THE GRID`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hayaxxdev-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=A9FEF7&icon_color=A9FEF7" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayaxxdev-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A9FEF7" width="41.5%" alt="Top Languages"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hayaxxdev-bit&theme=tokyonight&hide_border=true&locale=id&short_numbers=true)](https://git.io/streak-stats)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hayaxxdev-bit&theme=tokyo-night&hide_border=true&area=true&color=A9FEF7&line=A9FEF7&point=FF6E96" width="90%" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
-## `// TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hayaxxdev-bit&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-
-</div>
-
-<br/>
-
-## `// ACCOUNT — auto-synced, no manual editing needed`
-
-<div align="center">
-
-<!-- META-START -->
-| | |
-|---|---|
-| **Account created** | 2026-06-10 |
-| **Public repos** | 6 |
-
-<!-- META-END -->
-
-</div>
-
-<br/>
-
-## `// REPOSITORIES — auto-synced, no manual editing needed`
-
-<!-- REPOS-START -->
-<!-- This section is updated automatically every day by the GitHub Action
-     in .github/workflows/update-readme.yml — don't edit it by hand. -->
-| Repo | ⭐ Stars | 🍴 Forks | Language | Created | Last Push |
-|---|---|---|---|---|---|
-| [hayaxxdev-bit](https://github.com/hayaxxdev-bit/hayaxxdev-bit) | 0 | 0 | Python | 2026-06-18 | 2026-07-07 |
-| [Nexovra](https://github.com/hayaxxdev-bit/Nexovra) | 0 | 0 | JavaScript | 2026-06-29 | 2026-07-07 |
-| [WorkNote](https://github.com/hayaxxdev-bit/WorkNote) | 0 | 0 | — | 2026-07-07 | 2026-07-07 |
-| [FinanceNotepad](https://github.com/hayaxxdev-bit/FinanceNotepad) | 0 | 0 | HTML | 2026-06-16 | 2026-06-29 |
-| [hayaxxdev-bit.github.io](https://github.com/hayaxxdev-bit/hayaxxdev-bit.github.io) | 0 | 0 | CSS | 2026-06-10 | 2026-06-24 |
-| [StoImpo](https://github.com/hayaxxdev-bit/StoImpo) | 0 | 0 | JavaScript | 2026-06-24 | 2026-06-24 |
-<!-- REPOS-END -->
-
-<sub>Updated automatically every day at 00:00 UTC — see setup instructions below.</sub>
-
-<br/>
-
-## `// ANIME COUNTDOWN`
-
-<div align="center">
-
-<!-- ANIME-COUNTDOWN-START -->
-<!-- Auto-generated by scripts/update_anime_countdown.py — don't edit by hand. -->
-<img src="assets/anime-countdown.svg" alt="Anime countdown"/>
-
-| | |
-|---|---|
-| **Title** | _run the workflow once to populate this_ |
-| **Time remaining** | _run the workflow once to populate this_ |
-<!-- ANIME-COUNTDOWN-END -->
-
-</div>
-
-<sub>Updated automatically every 30 minutes — edit <code>anime_config.json</code> to change what it's counting down to.</sub>
-
-<br/>
-
-## `// ANIME LOG`
-
-```
 a programmer who never watched anime
 is like code with no comments —
 it runs, but the soul is missing.
-```
 
-| | |
-|---|---|
-| **current watch** | classified |
-| **all-time favs** | the list is too long |
-| **dropped list** | also long, no shame |
-| **peak hours** | 23:00 — 03:00 WIB |
+	
+current watch	classified
+all-time favs	the list is too long
+dropped list	also long, no shame
+peak hours	23:00 — 03:00 WIB
+// CONTACT — if it's actually important
 
-<br/>
-
-## `// CONTACT — if it's actually important`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/─_hayaxxdev--bit_─-0d1117?style=for-the-badge&logo=github&logoColor=A9FEF7&labelColor=0d1117)](https://github.com/hayaxxdev-bit)
-
-<br/>
-
-```
- __ ___ ______ __ __ ___ ______ ______
-/ |/ /___ _/ / / /____/ /_ ___ / |/ /___ _/ /
+  __ ___ ______ __ __ ___ ______ ______
+ / |/ /___ _/ / / /____/ /_ ___ / |/ /___ _/ /
 / /|_/ / __ `/ /_/ // __/ __ \/ _ \/ /|_/ / __ `/ /
 / /  / / /_/ / __  // /_/ / / /  __/ /  / / /_/ / /
 /_/  /_/\__,_/_/ /_/ \__/_/ /_/\___/_/  /_/\__,_/_/
-```
 
 — hayaxxdev-bit
-  pushing to main from bed.
-  no force push. probably.
+pushing to main from bed.
+no force push. probably.
+💡 Catatan Tambahan Agar Benar-Benar "Zero Error"
 
-</div>
+    Mengatasi Gambar Anime Countdown yang Rusak: Agar gambar pada bagian // ANIME COUNTDOWN tidak lagi broken image, pastikan kamu sudah membuat folder assets/ di repository, lalu pergi ke tab Actions di repo GitHub kamu dan jalankan workflow-nya secara manual (workflow_dispatch) untuk pertama kali agar file anime-countdown.svg langsung ter-generate.
+
+    Commit dari Kasur:
+    Tinggal salin kode di atas, paste, lalu git commit -am "fix(readme): patch broken endpoints and clean hidden ascii bugs" && git push origin main. Selamat menonton anime kembali! 🎬✨
