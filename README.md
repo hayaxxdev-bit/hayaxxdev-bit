@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <h3 align="center">"私、デバシッシュ（影野士道）が"</h3>
+  <h3 align="center">"私、ハヤ（影野士道）が"</h3>
   <h3 align="center">シャドウガーデンへようこそお越し下さいました。</h3>
 </div>
 
@@ -33,25 +33,25 @@ Profile Version: 3.2
 --------------------
 Level: 十五
 -----------
-Username: Debasish Ray (デバシッシュ・レイ)
-WhoamI: Graduated Computer Science Student 
-        (コンピュータサイエンスの学生)
-OS:  Windows 11 Pro [64-bit] , Ubuntu 24.04 LTS , Debian OS
-Shell: PowerShell v5.1.22
+Username: hayaxxdev-bit
+WhoamI: Just a School Graduate
+        (学校の卒業生)
+OS: Kubuntu LTS
+Shell: Zsh
 Terminal: Visual Studio Code
 
-Location: Chennai
-Education: SRM Institute of Science & Technology, KTR
+Location: Unknown
+Education: High School Graduate
 
 Interests:
-  - IoT Development (Arduino, Raspberry Pi)
-  - Web Development (Back-End Development)
-  - ML/DL (Time-Series, Neural Networks)
-  - DevOps (Infrastructure-Deployments)
+  - Game Development
+  - Web Development
 
-Hobbies: Cycling, Programming, Cooking
-Learning: Docker, Kubernetes, AWS, React, TailwindCSS
-Languages: C++, JS, C, Python
+Hobbies: Anime, Gaming, Coding
+Looking For: A Woman, Maybe 👀
+
+Learning: Docker, Linux, JavaScript
+Languages: JS, Python, HTML, CSS
 Fav_Subject: Computer Networks, PCB Design
 
 -------------
@@ -61,8 +61,8 @@ Fav_Subject: Computer Networks, PCB Design
 <div align="center">
 
 <p>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=8305eb&bar_color_cover=true"/>
+  <a href="https://music.youtube.com/">
+<img src="https://readmeme.eu.cc/api/music.svg?theme=terminal&musicSong=Now+Playing&musicArtist=hayaxxdev-bit&musicListen=YT+Music&musicPlatform=ytmusic"/>
   </a>
 </p>
 </div>
@@ -74,7 +74,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 <div align="center">
 
-![][C++] ![][C] ![][Python] ![][JavaScript] ![][MySQL] ![][SQLite] ![][Markdown]  ![][Shell Script] ![][YAML] ![][Firebase] ![][Arduino] ![][Terraform] ![][AWS] ![][Anaconda] ![][Figma] ![][Bootstrap] ![][NPM] ![][CSS3] ![][HTML5]
+![][JavaScript] ![][Docker] ![][Linux] ![][HTML5] ![][CSS3] ![][Python]
 
 </div>
 <!--📏LINE-->
@@ -89,19 +89,9 @@ Fav_Subject: Computer Networks, PCB Design
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-<h3 align="left">🤖 AI/ML の 仕組み</h3>
-
-<div align="center">
-
-![][PyTorch] ![][scikit-learn] ![][SciPy] ![][TensorFlow] ![][Keras] ![][Matplotlib] ![][NumPy] ![][Pandas] ![][Plotly]
-
-</div>
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3 align="left">🚧 Work in Progress</h3>
 
-![][Docker] ![][MongoDB] ![][nVIDIA] ![][React]  ![][TailwindCSS] ![][Vercel] ![][Raspberry Pi] ![][Zigbee]
+![][Docker] ![][MongoDB] ![][React] ![][TailwindCSS] ![][Vercel]
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=WeatherCast&theme=dark)](https://github.com/hayaxxdev-bit/WeatherCast)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=Passwordify&theme=dark)](https://github.com/hayaxxdev-bit/Passwordify)
@@ -151,7 +141,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 ###
 
-[![Debasish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hayaxxdev-bit&bg_color=000000&color=bb00ff&line=ea1a25&point=960bbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![hayaxxdev-bit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hayaxxdev-bit&bg_color=000000&color=bb00ff&line=ea1a25&point=960bbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
@@ -189,25 +179,12 @@ No activity tracked
 
 <!-- SHIELD GROUP -->
 
-[C++]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[C]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
-[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[MySQL]: https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
-[SQLite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
-[Markdown]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
-[Shell Script]: https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
-[YAML]: https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515
-[Firebase]: https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34
-[Arduino]: https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
-[Terraform]: https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white
-[AWS]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-[Anaconda]: https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white
-[Figma]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
-[Bootstrap]: https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
-[NPM]: https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
-[CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[Linux]: https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 
 [CodePen]: https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
 [GitLab]: https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
@@ -221,25 +198,11 @@ No activity tracked
 [Stack Overflow]: https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [Kaggle]: https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white
 
-[PyTorch]: https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
-[scikit-learn]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
-[SciPy]: https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white
-[TensorFlow]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
-[Keras]: https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white
-[Matplotlib]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
-[NumPy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
-[Pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
-[Plotly]: https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white
-
 [Hackerrank]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 [CodeChef]: https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white
 [GeeksForGeeks]: https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c
 
-[Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[nVIDIA]: https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green
 [React]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [TailwindCSS]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Vercel]: https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white
-[Raspberry Pi]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi
-[Zigbee]: https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white
