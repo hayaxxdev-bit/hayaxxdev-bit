@@ -1,0 +1,31 @@
+<svg width="500" height="170" viewBox="0 0 500 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="498" height="168" rx="14" fill="url(#bg)" stroke="#A9FEF7" stroke-width="2"/>
+
+  <text x="30" y="38" font-family="Courier New, monospace" font-size="12" letter-spacing="3" fill="#A9FEF7">
+    ANIME COUNTDOWN
+  </text>
+
+  <text x="30" y="72" font-family="Courier New, monospace" font-size="22" font-weight="bold" fill="#ffffff">
+    One Piece
+  </text>
+  <text x="30" y="94" font-family="Courier New, monospace" font-size="13" fill="#999999">
+    Episode 1130
+  </text>
+
+  <text x="30" y="132" font-family="Courier New, monospace" font-size="30" font-weight="bold" fill="#FF6E96">
+    05d 00h 03m
+  </text>
+
+  <rect x="30" y="148" width="440" height="8" rx="4" fill="#1c1c1c"/>
+  <rect x="30" y="148" width="126" height="8" rx="4" fill="#A9FEF7"/>
+
+  <text x="470" y="38" font-family="Courier New, monospace" font-size="10" fill="#666666" text-anchor="end">
+    COUNTING DOWN
+  </text>
+</svg>
