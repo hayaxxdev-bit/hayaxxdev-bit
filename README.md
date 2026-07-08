@@ -87,23 +87,6 @@ Fav_Subject: Computer Networks, PCB Design
 
 </div>
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-<h3 align="left">🚧 Work in Progress</h3>
-
-![][Docker] ![][MongoDB] ![][React] ![][TailwindCSS] ![][Vercel]
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=Nexovra&theme=dark)](https://github.com/hayaxxdev-bit/Nexovra)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=hayaxxdev-bit.github.io&theme=dark)](https://github.com/hayaxxdev-bit/hayaxxdev-bit.github.io)
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-<h3 align="left">🔬 Currently Working on:</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=StoImpo&theme=dark)](https://github.com/hayaxxdev-bit/StoImpo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=WorkNote&theme=dark)](https://github.com/hayaxxdev-bit/WorkNote)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=RFIDLink&theme=dark)](https://github.com/hayaxxdev-bit/RFIDLink)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=SatXtract&theme=dark)](https://github.com/hayaxxdev-bit/SatXtract)
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
@@ -133,7 +116,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 <div align="center"> 👀 </div>
 
-| <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/images/wal.svg" onerror="this.style.display='none'" alt="Anime Countdown" /> |  |
+| <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/images/saf.svg" onerror="this.style.display='none'" alt="Anime Countdown" /> |  |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 <div align="center">
