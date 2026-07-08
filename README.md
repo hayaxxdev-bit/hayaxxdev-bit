@@ -133,9 +133,10 @@ Fav_Subject: Computer Networks, PCB Design
 ![snake gif](https://github.com/hayaxxdev-bit/hayaxxdev-bit/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-iota-neon.vercel.app?user=hayaxxdev-bit&theme=tokyonight&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hayaxxdev-bit&theme=tokyonight&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" />
+  </a>
 </div>
-
 ###
 
 [![hayaxxdev-bit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hayaxxdev-bit&bg_color=000000&color=bb00ff&line=ea1a25&point=960bbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -146,13 +147,6 @@ Fav_Subject: Computer Networks, PCB Design
 
 </div>
 
-<!--START_SECTION:waka-->
-
-```python
-From: 30 June 2026 - To: 07 July 2026
-
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 
