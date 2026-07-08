@@ -16,7 +16,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/.github/images/error.jpg height=97% width=97% align=center alt=generated_image />
+<img src=https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/.github/asset/images/error.jpg height=97% width=97% align=center alt=generated_image />
 <!--END_SECTION:update_image-->
 </a>
 
@@ -117,12 +117,11 @@ Fav_Subject: Computer Networks, PCB Design
 
 <div align="center"> 👀 </div>
 
-| ![](/assets/left.svg) | ![](/assets/right.svg) |
+| ![](/images/anime-countdown.svg) | ![](/assets/right.svg) |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 <div align="center">
-  <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=188">
+  <a href="https://typograssy.deno.dev/api?text=%E6%80%A0%E6%83%B0%E3%80%81%E6%80%A0%E6%83%B0%E3%80%81%E6%80%A0%E6%83%B0%E3%80%81%E6%80%A0%E6%83%B0%E3%80%81%E6%80%A0%E6%83%B0%E3%80%81%E6%80%A0%E6%83%B0%E3%80%81%E6%80%A0%E6%83%B0%E3%80%82&l0=ffffff&l1=c061cb&l2=9141ac&l3=813d9c&l4=613583&bg=000000&frame=ffffff&speed=245&comment=Generated%20">
   </a>
 </div>
 
@@ -134,9 +133,7 @@ Fav_Subject: Computer Networks, PCB Design
 ![snake gif](https://github.com/hayaxxdev-bit/hayaxxdev-bit/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-iota-neon.vercel.app?user=hayaxxdev-bit&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=486&background=80%2C280B18F1%2C2B1DDEF1&sideNums=EB0707&currStreakNum=EB0000&dates=D41BEB&border=EB5454&stroke=5F36EB&ring=6728EB&fire=C336EB&currStreakLabel=EB120D&sideLabels=EB2E1B&excludeDaysLabel=EB1A0D" alt="GitHub Streak" />
-      </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-iota-neon.vercel.app?user=hayaxxdev-bit&theme=tokyonight&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 </div>
 
 ###
