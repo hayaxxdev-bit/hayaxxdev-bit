@@ -133,7 +133,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 <div align="center"> 👀 </div>
 
-| <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/asset/images/wal.jpg" onerror="this.style.display='none'" alt="Anime Countdown" /> |  |
+| <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/asset/images/wal.svg" onerror="this.style.display='none'" alt="Anime Countdown" /> |  |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 <div align="center">
