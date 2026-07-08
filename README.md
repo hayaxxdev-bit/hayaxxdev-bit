@@ -93,15 +93,15 @@ Fav_Subject: Computer Networks, PCB Design
 
 ![][Docker] ![][MongoDB] ![][React] ![][TailwindCSS] ![][Vercel]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=WeatherCast&theme=dark)](https://github.com/hayaxxdev-bit/WeatherCast)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=Passwordify&theme=dark)](https://github.com/hayaxxdev-bit/Passwordify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=Nexovra&theme=dark)](https://github.com/hayaxxdev-bit/Nexovra)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=hayaxxdev-bit.github.io&theme=dark)](https://github.com/hayaxxdev-bit/hayaxxdev-bit.github.io)
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3 align="left">🔬 Currently Working on:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=StockPredictor&theme=dark)](https://github.com/hayaxxdev-bit/StockPredictor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=ManageStock&theme=dark)](https://github.com/hayaxxdev-bit/ManageStock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=StoImpo&theme=dark)](https://github.com/hayaxxdev-bit/StoImpo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=WorkNote&theme=dark)](https://github.com/hayaxxdev-bit/WorkNote)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=RFIDLink&theme=dark)](https://github.com/hayaxxdev-bit/RFIDLink)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayaxxdev-bit&repo=SatXtract&theme=dark)](https://github.com/hayaxxdev-bit/SatXtract)
 
@@ -111,17 +111,15 @@ Fav_Subject: Computer Networks, PCB Design
 
 ![][Docker] ![][MongoDB] ![][React] ![][TailwindCSS] ![][Vercel]
 
-[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=WeatherCast&theme=dark)](https://github.com/hayaxxdev-bit/WeatherCast)
-[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=Passwordify&theme=dark)](https://github.com/hayaxxdev-bit/Passwordify)
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=Nexovra&theme=dark)](https://github.com/hayaxxdev-bit/Nexovra)
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=hayaxxdev-bit.github.io&theme=dark)](https://github.com/hayaxxdev-bit/hayaxxdev-bit.github.io)
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3 align="left">🔬 Currently Working on:</h3>
 
-[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=StockPredictor&theme=dark)](https://github.com/hayaxxdev-bit/StockPredictor)
-[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=ManageStock&theme=dark)](https://github.com/hayaxxdev-bit/ManageStock)
-[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=RFIDLink&theme=dark)](https://github.com/hayaxxdev-bit/RFIDLink)
-[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=SatXtract&theme=dark)](https://github.com/hayaxxdev-bit/SatXtract)
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=StoImpo&theme=dark)](https://github.com/hayaxxdev-bit/StoImpo)
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=WorkNote&theme=dark)](https://github.com/hayaxxdev-bit/WorkNote)
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
@@ -135,7 +133,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 <div align="center"> 👀 </div>
 
-| <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/images/wal.jpg" onerror="this.style.display='none'" alt="Anime Countdown" /> |  |
+| <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/asset/images/wal.jpg" onerror="this.style.display='none'" alt="Anime Countdown" /> |  |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 <div align="center">
