@@ -107,6 +107,24 @@ Fav_Subject: Computer Networks, PCB Design
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+<h3 align="left">🚧 Work in Progress</h3>
+
+![][Docker] ![][MongoDB] ![][React] ![][TailwindCSS] ![][Vercel]
+
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=WeatherCast&theme=dark)](https://github.com/hayaxxdev-bit/WeatherCast)
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=Passwordify&theme=dark)](https://github.com/hayaxxdev-bit/Passwordify)
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+<h3 align="left">🔬 Currently Working on:</h3>
+
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=StockPredictor&theme=dark)](https://github.com/hayaxxdev-bit/StockPredictor)
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=ManageStock&theme=dark)](https://github.com/hayaxxdev-bit/ManageStock)
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=RFIDLink&theme=dark)](https://github.com/hayaxxdev-bit/RFIDLink)
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hayaxxdev-bit&repo=SatXtract&theme=dark)](https://github.com/hayaxxdev-bit/SatXtract)
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3 align="left">📈 My Grinds</h3>
 
 <div align="center">
@@ -117,7 +135,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 <div align="center"> 👀 </div>
 
-| ![](/images/anime-countdown.svg) | ![](/assets/right.svg) |
+| <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/images/anime-countdown.svg" onerror="this.style.display='none'" alt="Anime Countdown" /> |  |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 <div align="center">
@@ -129,15 +147,15 @@ Fav_Subject: Computer Networks, PCB Design
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3 align="left">🔥 Statistics</h3>
 
-  
-![snake gif](https://github.com/hayaxxdev-bit/hayaxxdev-bit/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=hayaxxdev-bit&theme=tokyonight&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" />
   </a>
 </div>
-###
 
 [![hayaxxdev-bit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hayaxxdev-bit&bg_color=000000&color=bb00ff&line=ea1a25&point=960bbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
