@@ -148,7 +148,7 @@ Fav_Subject: Computer Networks, PCB Design
 ###
 
 <div align="center">
-  <img src="https://imgur.com/gallery/maple-bofuri-gifs-KTAK2DV#50gcFL5" height="250">
+  <img src="https://i.imgur.com/50gcFL5.gif" height="250">
 </div>
 
 <br clear="both">
