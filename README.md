@@ -135,7 +135,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 <div align="center"> 👀 </div>
 
-| <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/images/anime-countdown.svg" onerror="this.style.display='none'" alt="Anime Countdown" /> |  |
+| <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/images/wal.jpg" onerror="this.style.display='none'" alt="Anime Countdown" /> |  |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 <div align="center">
@@ -146,10 +146,6 @@ Fav_Subject: Computer Networks, PCB Design
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3 align="left">🔥 Statistics</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -171,7 +167,7 @@ Fav_Subject: Computer Networks, PCB Design
 ###
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xrdWV0ZXpvdWIxamcxeXJ6YnhkYW93YmlxY2o2MGdlc2N6anc0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VY0W2ezm5S8biSuGao/giphy.gif" height="250">
+  <img src="https://pin.it/6q2VtBJzV" height="250">
 </div>
 
 <br clear="both">
