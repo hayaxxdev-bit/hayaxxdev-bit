@@ -19,11 +19,11 @@
   </text>
 
   <text x="30" y="132" font-family="Courier New, monospace" font-size="30" font-weight="bold" fill="#FF6E96">
-    02d 06h 38m
+    02d 03h 25m
   </text>
 
   <rect x="30" y="148" width="440" height="8" rx="4" fill="#1c1c1c"/>
-  <rect x="30" y="148" width="297" height="8" rx="4" fill="#A9FEF7"/>
+  <rect x="30" y="148" width="305" height="8" rx="4" fill="#A9FEF7"/>
 
   <text x="470" y="38" font-family="Courier New, monospace" font-size="10" fill="#666666" text-anchor="end">
     COUNTING DOWN
