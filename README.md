@@ -1,5 +1,5 @@
-&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=hayaxxdev-bit.hayaxxdev-bit&left_text=Shadow%20Garden%20Members&left_color=black&right_color=red"/>
-[![wakatime](https://wakatime.com/badge/user/018c6347-ea45-4be7-9e4a-3ad63a132bc9.svg)](https://wakatime.com/@018c6347-ea45-4be7-9e4a-3ad63a132bc9)
+&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=hayaxxdev-bit&left_text=visitors&logo=github" alt="visitor badge"/>
+
 
 <div align="center">
 
