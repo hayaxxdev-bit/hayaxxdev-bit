@@ -439,8 +439,7 @@ Godot
 <img src="https://i.imgur.com/50gcFL5.gif" height="250"/>
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Bomadha&weight=300&size=35&duration=3000&pause=800&center=true&color=7B57A1&width=900&lines=私は原子です。;私たちは影の庭です。;影から世界を変える。"/>
+<img src="https://readme-typing-svg.demolab.com?font=Bomadha&weight=300&size=35&duration=3000&pause=800&center=true&color=7B57A1&width=900&lines=ようこそ、楓の木へ。;共に学び、共に創る。;知識は共有することで価値になる。"/>
 
 </div>
 
