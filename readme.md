@@ -89,9 +89,7 @@
 
 <br clear="both"/>
 
----
 
-# 🎧 現在再生中
 
 <div align="center">
 
