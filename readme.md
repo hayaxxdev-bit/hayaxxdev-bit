@@ -248,7 +248,7 @@ Godot                █████████░░░░░░░░░
 
 ```text
 ┌──────────────────────────────────────────────┐
-│ SHADOW GARDEN :: MEMBER PROFILE              │
+│ KAEDE NO KI :: MEMBER PROFILE              │
 ├──────────────────────────────────────────────┤
 
  Version    :: 2.5
@@ -456,7 +456,7 @@ Godot
 
 *"Share."*
 
-*"Stay in the Shadows."*
+*"Stay in the Guild."*
 
 </div>
 
