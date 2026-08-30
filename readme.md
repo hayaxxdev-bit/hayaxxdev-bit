@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FFFFFF,50:D4AF37,100:000000&text=新月の盾&fontColor=1a1a1a&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Absolute%20Defense%20%7C%20楓の木&descAlignY=58&descSize=20&descColor=1a1a1a"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3500&pause=900&color=D4AF37&center=true&vCenter=true&width=600&lines=I+Don't+Want+to+Get+Hurt%2C;So+I'll+Max+Out+My+Defense.;ようこそ%2C+楓の木へ。" alt="Typing SVG"/>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3500&pause=900&color=D4AF37&background=9A000000&center=true&vCenter=true&width=600&lines=I+Don't+Want+to+Get+Hurt;So+I'll+Max+Out+My+Defense.;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%2C+%E6%A5%93%E3%81%AE%E6%9C%A8%E3%81%B8)](https://git.io/typing-svg)
 <br/>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=hayaxxdev-bit&left_text=Wanderers&left_color=000000&right_color=D4AF37&style=for-the-badge" alt="visitor badge"/>
@@ -173,7 +172,7 @@ tapi masa depan yang lebih baik dibangun bersama rekan seperjalanan.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Bomadha&size=30&duration=3000&pause=700&color=D4AF37&center=true&vCenter=true&width=500&lines=よろしくお願いします%EF%BC%81;楓の木で待ってるよ〜" alt="Typing SVG"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bomadha&weight=700&size=30&duration=3000&pause=700&color=D4AF37&background=9A000000&center=true&vCenter=true&width=500&lines=%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99%EF%BC%81;%E6%A5%93%E3%81%AE%E6%9C%A8%E3%81%A7%E5%BE%85%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%88%E3%80%9C)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:000000,100:D4AF37&text=さようなら、またね&fontColor=FFFFFF"/>
 
