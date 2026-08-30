@@ -105,7 +105,7 @@
 <div align="center">
 
 ## 📜 Quest Log — Proyek Saat Ini
-*Diperbarui otomatis setiap 6 jam via GitHub Actions — tidak lagi bergantung pada layanan pihak ketiga.*
+*Diperbarui otomatis setiap 6 jam*
 
 <!--QUEST_LOG:START-->
 <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/github-metrics.svg" alt="Quest Log — Repositories otomatis"/>
@@ -139,7 +139,7 @@
 <div align="center">
 
 ## 📊 Catatan Pertempuran — Statistik GitHub
-*Sama seperti Quest Log di atas — SVG ini di-generate & di-commit sendiri oleh Actions milikmu (bukan endpoint publik Vercel/Heroku yang sering `DEPLOYMENT_PAUSED`), jadi selalu tampil walau layanan pihak ketiga sedang down.*
+*Sama seperti Quest Log.*
 
 <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/github-metrics.svg" alt="GitHub Metrics"/>
 
