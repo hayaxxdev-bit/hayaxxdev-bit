@@ -1,207 +1,64 @@
-# <img src="https://visitor-badge.laobi.icu/badge?page_id=hayaxxdev-bit&left_text=visitors&logo=github" alt="visitor badge"/>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=000000&text=みなさん、ようこそ&fontColor=ffffff&animation=scaleIn&stroke=7B57A1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FFFFFF,50:D4AF37,100:000000&text=新月の盾&fontColor=1a1a1a&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Absolute%20Defense%20%7C%20楓の木&descAlignY=58&descSize=20&descColor=1a1a1a"/>
 
-## 「私、ハヤ（影野士道）が」
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3500&pause=900&color=D4AF37&center=true&vCenter=true&width=600&lines=I+Don't+Want+to+Get+Hurt%2C;So+I'll+Max+Out+My+Defense.;ようこそ%2C+楓の木へ。" alt="Typing SVG"/>
 
-###  楓の木へようこそ。
+<br/>
 
-> **共に学び、共に創り、共に成長する。**
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hayaxxdev-bit&left_text=Wanderers&left_color=000000&right_color=D4AF37&style=for-the-badge" alt="visitor badge"/>
 
 </div>
 
-# 私について
+<br/>
 
-<img align="left" src="images/my2.jpg" width="34%" alt="Hayato"/>
+<table align="center">
+<tr>
+<td width="38%" valign="middle" align="center">
 
-```text
-┌──────────────────────────────────────────────────────┐
-│              楓の木 :: MEMBER PROFILE                │
-├──────────────────────────────────────────────────────┤
+<img src="images/my2.jpg" width="100%" style="border-radius: 12px; border: 3px solid #D4AF37;" alt="Hayato"/>
 
- Version      :: 2.5
- Level        :: 十五
- Codename     :: ハヤ
- Username     :: hayaxxdev-bit
+</td>
+<td width="62%" valign="top">
 
-────────────────────────────────────────────────────────
-
- Affiliation  :: 楓の木
- Status       :: Active
- Mission      :: Open Source Community
-
-────────────────────────────────────────────────────────
-
- System
-
-   OS         :: Kubuntu LTS
-   Shell      :: Zsh
-   Editor     :: VSCodium
-   Browser    :: Firefox
-
-────────────────────────────────────────────────────────
-
- Main Focus
-
-   ◉ Full Stack Development
-   ◉ Game Development
-   ◉ Computer Science
-   ◉ Open Source
-
-────────────────────────────────────────────────────────
-
- Currently Learning
-
-   ○ Docker
-   ○ Linux
-   ○ JavaScript
-   ○ React
-   ○ Godot
-   ○ Software Architecture
-
-────────────────────────────────────────────────────────
-
- Languages
-
-   ◆ JavaScript
-   ◆ Python
-   ◆ HTML5
-   ◆ CSS3
-
-────────────────────────────────────────────────────────
-
- Philosophy
-
-   学び続けること。
-   創り続けること。
-   分かち合うこと。
-
-────────────────────────────────────────────────────────
-
- 「知識は共有することで価値になる。」
-
-└──────────────────────────────────────────────────────┘
+```
+╔═══════════════════════════════════════════════════╗
+║              🛡️  STATUS WINDOW  🛡️               ║
+╠═══════════════════════════════════════════════════╣
+║                                                     ║
+║   Player       : ハヤ (影野士道)                  ║
+║   Guild        : 楓の木 (Kaede no Ki)             ║
+║   Class        : Full-Stack Defender               ║
+║   Level        : 15                                ║
+║   Username     : @hayaxxdev-bit                     ║
+║   Status       : 🟢 Online / Active                ║
+║                                                     ║
+╠═══════════════ EQUIPMENT ══════════════════════════╣
+║                                                     ║
+║   OS           : Kubuntu LTS                        ║
+║   Shell        : Zsh                                ║
+║   Editor       : VSCodium                           ║
+║   Browser      : Firefox                            ║
+║                                                     ║
+╠═══════════════ SKILL TREE ═════════════════════════╣
+║                                                     ║
+║   ◈ Full Stack Development                         ║
+║   ◈ Game Development                               ║
+║   ◈ Computer Science                               ║
+║   ◈ Open Source Contribution                       ║
+║                                                     ║
+╚═══════════════════════════════════════════════════╝
 ```
 
-<br clear="both"/>
-
-
-
-<div align="center">
-
-<img src="https://readmeme.eu.cc/api/music.svg?theme=terminal&musicSong=Now+Playing&musicArtist=hayaxxdev-bit&musicListen=YT+Music&musicPlatform=ytmusic"/>
-
-</div>
-
----
-
-# 技術スタック
-
-### Programming
-
-JavaScript ・ Python ・ HTML5 ・ CSS3
-
-### Frontend
-
-React ・ Tailwind CSS ・ Vite
-
-### Backend
-
-Node.js ・ Express
-
-### Database
-
-MongoDB ・ SQLite
-
-### DevOps
-
-Docker ・ Git ・ GitHub Actions
-
-### Game Development
-
-Godot Engine
-
-### Environment
-
-Kubuntu ・ VSCodium ・ Firefox
-
----
-
-# 現在のプロジェクト
-
-現在開発・公開しているプロジェクト。
-
-* 🌌 **Nexovra**
-* 📦 **StoImpo**
-* 📝 **WorkNote**
-* 🌐 **hayaxxdev-bit.github.io**
-
----
-
-# 学習の旅
-
-現在取り組んでいる分野。
-
-```text
-Computer Science     ████████████████░░
-Linux                ██████████████░░░░
-Docker               ████████████░░░░░░
-JavaScript           █████████████████░
-React                ███████████░░░░░░░
-Godot                █████████░░░░░░░░░
-```
-
----
-
-# 活動記録
-
-ここに配置
-
-• GitHub Streak
-
-• GitHub Activity Graph
-
-• GitHub Summary Cards
-
-• WakaTime
-
-• Contribution Snake（任意）
-
----
-
-# 🌸 楓の木
-
-楓の木は、
-
-競争するための場所ではありません。
-
-知識を共有し、
-
-互いに助け合い、
-
-新しいものを創り、
-
-共に成長していくための場所です。
-
-コードは一人でも書けます。
-
-しかし、より良い未来は仲間と創るものだと信じています。
-
----
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-## 「我々は楓の木。」
+### 「防御力に極振りする。」
 
-**Learn Together.**
-
-**Build Together.**
-
-**Share Together.**
-
-**Grow Together.**
+*Semua stat dialihkan ke DEF — begitu pula caraku membangun sesuatu: perlahan, kokoh, dan tahan lama.*
 
 </div>
 
@@ -209,16 +66,115 @@ Godot                █████████░░░░░░░░░
 
 <div align="center">
 
-<img src="https://i.imgur.com/50gcFL5.gif" height="250"/>
+## ⚔️ Buff Aktif — Tech Stack
 
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bomadha&size=33&duration=3000&pause=700&color=7B57A1&background=BCFFF400&center=true&vCenter=true&width=435&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81%E6%A5%93%E3%81%AE%E6%9C%A8%E3%81%B8;%E5%85%B1%E3%81%AB%E5%AD%A6%E3%81%B3%E3%80%81%E5%85%B1%E3%81%AB%E5%89%B5%E3%82%8B;%E7%9F%A5%E8%AD%98%E3%81%AF%E5%85%B1%E6%9C%89%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E4%BE%A1%E5%80%A4%E3%81%AB%E3%81%AA%E3%82%8B" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=D4AF37"/>
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=D4AF37"/>
+
+**Backend & Database**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=D4AF37"/>
+
+**DevOps & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Godot_Engine-000000?style=for-the-badge&logo=godotengine&logoColor=D4AF37"/>
 
 </div>
 
 ---
 
-<div>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:6A0DAD,100:000000&text=さようなら、またね&fontColor=ffffff"/>
+## 📜 Quest Log — Proyek Saat Ini
+*Diperbarui otomatis setiap 6 jam via GitHub Actions — tidak lagi bergantung pada layanan pihak ketiga.*
 
+<!--QUEST_LOG:START-->
+<img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/github-metrics.svg" alt="Quest Log — Repositories otomatis"/>
+<!--QUEST_LOG:END-->
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧭 Jalur Latihan — Currently Learning
+
+</div>
+
+<div align="center">
+
+| Skill | Progress |
+|:------|:---------|
+| Computer Science | ████████████████░░ 80% |
+| Linux | ██████████████░░░░ 70% |
+| Docker | ████████████░░░░░░ 60% |
+| JavaScript | █████████████████░ 85% |
+| React | ███████████░░░░░░░ 55% |
+| Godot | █████████░░░░░░░░░ 45% |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Catatan Pertempuran — Statistik GitHub
+*Sama seperti Quest Log di atas — SVG ini di-generate & di-commit sendiri oleh Actions milikmu (bukan endpoint publik Vercel/Heroku yang sering `DEPLOYMENT_PAUSED`), jadi selalu tampil walau layanan pihak ketiga sedang down.*
+
+<img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/github-metrics.svg" alt="GitHub Metrics"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌸 Tentang 楓の木 (Kaede no Ki)
+
+**楓の木 bukan tempat untuk berkompetisi.**
+**Ini adalah tempat berbagi ilmu, saling membantu, membangun hal baru, dan bertumbuh bersama.**
+
+Kode bisa ditulis sendirian —
+tapi masa depan yang lebih baik dibangun bersama rekan seperjalanan.
+
+<br/>
+
+**Learn Together. Build Together. Share Together. Grow Together.**
+
+<br/>
+
+「知識は共有することで価値になる。」
+*Pengetahuan menjadi berharga saat dibagikan.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Bomadha&size=30&duration=3000&pause=700&color=D4AF37&center=true&vCenter=true&width=500&lines=よろしくお願いします%EF%BC%81;楓の木で待ってるよ〜" alt="Typing SVG"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:000000,100:D4AF37&text=さようなら、またね&fontColor=FFFFFF"/>
+
+</div>
