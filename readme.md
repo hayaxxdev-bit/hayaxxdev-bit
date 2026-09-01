@@ -22,30 +22,30 @@
 
 ```
 ╔═══════════════════════════════════════════════════╗
-║              🛡️  STATUS WINDOW  🛡️               ║
+║              🛡️  STATUS WINDOW  🛡️                ║
 ╠═══════════════════════════════════════════════════╣
-║                                                     ║
-║   Player       : ハヤ (影野士道)                  ║
-║   Guild        : 楓の木 (Kaede no Ki)             ║
-║   Class        : Full-Stack Defender               ║
-║   Level        : 15                                ║
-║   Username     : @hayaxxdev-bit                     ║
-║   Status       : 🟢 Online / Active                ║
-║                                                     ║
-╠═══════════════ EQUIPMENT ══════════════════════════╣
-║                                                     ║
-║   OS           : Kubuntu LTS                        ║
-║   Shell        : Zsh                                ║
-║   Editor       : VSCodium                           ║
-║   Browser      : Firefox                            ║
-║                                                     ║
-╠═══════════════ SKILL TREE ═════════════════════════╣
-║                                                     ║
-║   ◈ Full Stack Development                         ║
-║   ◈ Game Development                               ║
-║   ◈ Computer Science                               ║
-║   ◈ Open Source Contribution                       ║
-║                                                     ║
+║                                                   ║
+║   Player       : ハヤ (影野士道)                    ║
+║   Guild        : 楓の木 (Kaede no Ki)              ║
+║   Class        : Full-Stack Defender              ║
+║   Level        : 15                               ║
+║   Username     : @hayaxxdev-bit                   ║
+║   Status       : 🟢 Online / Active               ║
+║                                                   ║
+╠═══════════════ EQUIPMENT ═════════════════════════╣
+║                                                   ║
+║   OS           : Kubuntu LTS                      ║
+║   Shell        : Zsh                              ║
+║   Editor       : VSCodium                         ║
+║   Browser      : Firefox                          ║
+║                                                   ║
+╠═══════════════ SKILL TREE ════════════════════════╣
+║                                                   ║
+║   ◈ Full Stack Development                        ║
+║   ◈ Game Development                              ║
+║   ◈ Computer Science                              ║
+║   ◈ Open Source Contribution                      ║
+║                                                   ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
