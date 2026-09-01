@@ -28,7 +28,7 @@
 ║   Player       : ハヤ (影野士道)                    ║
 ║   Guild        : 楓の木 (Kaede no Ki)              ║
 ║   Class        : Full-Stack Defender              ║
-║   Level        : 15                               ║
+║   Level        : 19                               ║
 ║   Username     : @hayaxxdev-bit                   ║
 ║   Status       : 🟢 Online / Active               ║
 ║                                                   ║
