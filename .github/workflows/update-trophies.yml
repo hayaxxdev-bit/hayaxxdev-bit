@@ -1,0 +1,31 @@
+name: Update Trophies
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Berjalan otomatis setiap hari pada jam 12 malam UTC
+  workflow_dispatch: # Membuat tombol manual agar bisa dicoba sekarang
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Trophies SVG
+        uses: soulteary/github-profile-trophy-action@main
+        with:
+          # UBAH username di bawah ini dengan username GitHub Anda!
+          username: hayaxxdev-bit
+          # Menyesuaikan tema dan layout sesuai kode lama Anda
+          params: '&theme=gitdimmed&no-frame=true&column=7&margin-w=8&margin-h=8'
+          path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add trophy.svg
+          git commit -m "Update profile trophies" || exit 0
+          git push
