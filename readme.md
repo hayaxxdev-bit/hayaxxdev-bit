@@ -74,6 +74,7 @@
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=D4AF37"/>
@@ -117,22 +118,48 @@
 
 <div align="center">
 
-## 🧭 Jalur Latihan — Currently Learning
+## 🗡️ Ability List — Skill Board
+
+*Bukan bar persen — ini papan kemampuan ala 楓の木, disusun per rank seperti skill Maple.*
 
 </div>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
 
-| Skill | Progress |
-|:------|:---------|
-| Computer Science | ████████████████░░ 80% |
-| Linux | ██████████████░░░░ 70% |
-| Docker | ████████████░░░░░░ 60% |
-| JavaScript | █████████████████░ 85% |
-| React | ███████████░░░░░░░ 55% |
-| Godot | █████████░░░░░░░░░ 45% |
+### 🛡️ Mastered
+<sub>*(New Moon Shield — sudah jadi tameng utama)*</sub>
 
-</div>
+- ⚔️ JavaScript
+- ⚔️ HTML / CSS
+- ⚔️ Git & GitHub Actions
+- ⚔️ Node.js / Express
+
+</td>
+<td width="33%" valign="top">
+
+### 🌱 Growing
+<sub>*(Devour — masih dilatih, tapi mulai kuat)*</sub>
+
+- 🔰 TypeScript
+- 🔰 React
+- 🔰 Docker
+- 🔰 Linux (Kubuntu)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔍 New Quest
+<sub>*(Skill baru yang lagi di-farm)*</sub>
+
+- 🧭 Godot Engine
+- 🧭 Computer Science fundamentals
+- 🧭 Sistem terdistribusi
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -142,6 +169,23 @@
 *Sama seperti Quest Log.*
 
 <img src="https://raw.githubusercontent.com/hayaxxdev-bit/hayaxxdev-bit/main/github-metrics.svg" alt="GitHub Metrics"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hayaxxdev-bit&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hayaxxdev-bit&theme=dark&hide_border=true&background=00000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" alt="GitHub Streak" width="48%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Guild Achievements
+
+<img src="./trophy.svg" alt="trophies"/>
 
 </div>
 
